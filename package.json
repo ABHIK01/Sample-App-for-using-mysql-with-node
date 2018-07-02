@@ -1,0 +1,15 @@
+{
+  "name": "mysqlwithnode",
+  "version": "1.0.0",
+  "description": "crud application using mysql with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Abhik Samanta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
